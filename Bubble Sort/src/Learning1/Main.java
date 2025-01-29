@@ -4,8 +4,8 @@ import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {
-//        int[] arr = {5, 3, 8, 4, 2};
-        int[] arr = {1, 2, 3, 4, 5, 6};
+        int[] arr = {5, 3, 8, 4, 2};
+//        int[] arr = {1, 2, 3, 4, 5, 6};
         bubbleSort(arr);
         System.out.println(Arrays.toString(arr));
     }
